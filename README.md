@@ -1,0 +1,2 @@
+# General_Knowledge_Embedded_Image_Representation_Learning
+Implement General Knowledge Embedded Image Representation Learning
